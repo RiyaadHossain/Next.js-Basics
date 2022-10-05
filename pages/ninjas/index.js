@@ -1,9 +1,9 @@
 import React from 'react'
 
-function index() {
+function Ninjas() {
   return (
-    <div>index</div>
+    <div>Ninjas</div>
   )
 }
 
-export default index
+export default Ninjas

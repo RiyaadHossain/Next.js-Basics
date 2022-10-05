@@ -1,9 +1,9 @@
 import React from 'react'
 
-function test() {
+function Test() {
     return (
-        <div>test</div>
+        <div>Test</div>
     )
 }
 
-export default test
+export default Test
