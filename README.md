@@ -1,4 +1,4 @@
-# Ninja Listing
+# Ninja Listing 🥷
 
 A simple project implementing the basics of Next.js ⏭️
 
